@@ -1,6 +1,1 @@
-aeiou
-<<<<<<< HEAD
-quick & simple.
-=======
-quick and simple;
->>>>>>> feature1
+天王盖地虎
